@@ -1,5 +1,10 @@
+/* @import "bootstrap/dist/css/bootstrap.css"; */
 .App {
   text-align: center;
+  margin: 0px;
+}
+*{
+  margin: 0px;
 }
 
 .App-logo {

@@ -1,0 +1,49 @@
+/* @import "bootstrap/dist/css/bootstrap.css"; */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+.cardLayout_pro{
+    height: 230px;
+    width: 400px;
+    /* box-shadow: 0.2px 0.2px 10px black; */
+    margin: 20px;
+  
+}
+.header_pro{
+    text-align: center;
+    background-color: #44546A;
+    color: #D9D9D9;
+    padding: 5px;
+    padding-left: 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+
+    justify-content: start;
+    align-items: center;
+    font-size: 24px;
+     width: 400px;
+    
+}
+p{
+    margin-top: 10px;
+}
+/* thead{
+     background-color: black;
+
+} */
+tr{
+    display: flex;
+    justify-content: space-between;
+     color: #44546A;
+
+    font-family: 'Roboto Condensed', sans-serif;
+}
+td{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #44546A;
+
+    font-family: 'Roboto Condensed', sans-serif;
+}
+Table{
+    border: 2px solid #44546A;
+}

@@ -1,0 +1,65 @@
+{
+   "Column_one":{
+      "name": "Portfolio1",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+},
+   "Column_two":{
+      "name": "Portfolio2",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+},
+   "Column_three":{
+      "name": "Portfolio3",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+},
+   "Column_four":{
+      "name": "Portfolio4",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+},
+   "Column_five":{
+      "name": "Portfolio5",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+},
+   "Column_six":{
+      "name": "Portfolio6",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+},
+"Column_seven":{
+      "name": "Portfolio7",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+}
+,
+"Column_eight":{
+      "name": "Portfolio8",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+},
+"Column_nine":{
+      "name": "Portfolio9",
+      "1year": "+8%",
+      "3year": "+10%",
+      "5year": "+12%"
+
+}
+}
