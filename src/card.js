@@ -11,15 +11,19 @@ function Card({ headding, val, valone, valtwo, res, resone, restwo }) {
       </div>
       <Table striped hover>
         <tbody>
-          <tr>
+          <tr style={val == null ? { display: "none" } : { display: "flex" }}>
             <td>{res}</td>
             <td>{val}</td>
           </tr>
-          <tr>
+          <tr
+            style={valone == null ? { display: "none" } : { display: "flex" }}
+          >
             <td>{resone}</td>
             <td>{valone}</td>
           </tr>
-          <tr>
+          <tr
+            style={valtwo == null ? { display: "none" } : { display: "flex" }}
+          >
             <td>{restwo}</td>
             <td>{valtwo}</td>
           </tr>

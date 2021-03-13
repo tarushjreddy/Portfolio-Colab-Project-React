@@ -16,3 +16,26 @@ function App() {
 }
 
 export default App;
+// import React, { useEffect, useState } from "react";
+// import axios from "axios";
+// function App(params) {
+//   const [post, setPost] = useState([]);
+
+//   useEffect(() => {
+//     axios.get("data.json").then((res) => {
+//       console.log(res);
+//       setPost(res.data);
+//     });
+//   }, []);
+//   return (
+//     <div>
+//       <ul>
+//         {post.map((posts) => (
+//           <div>{posts.name}</div>
+//         ))}
+//       </ul>
+//     </div>
+//   );
+// }
+
+// export default App;
